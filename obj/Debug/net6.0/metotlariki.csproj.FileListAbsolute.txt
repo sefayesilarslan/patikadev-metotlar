@@ -1,0 +1,15 @@
+C:\pratikler\metotlariki\obj\Debug\net6.0\metotlariki.csproj.AssemblyReference.cache
+C:\pratikler\metotlariki\obj\Debug\net6.0\metotlariki.GeneratedMSBuildEditorConfig.editorconfig
+C:\pratikler\metotlariki\obj\Debug\net6.0\metotlariki.AssemblyInfoInputs.cache
+C:\pratikler\metotlariki\obj\Debug\net6.0\metotlariki.AssemblyInfo.cs
+C:\pratikler\metotlariki\obj\Debug\net6.0\metotlariki.csproj.CoreCompileInputs.cache
+C:\pratikler\metotlariki\bin\Debug\net6.0\metotlariki.exe
+C:\pratikler\metotlariki\bin\Debug\net6.0\metotlariki.deps.json
+C:\pratikler\metotlariki\bin\Debug\net6.0\metotlariki.runtimeconfig.json
+C:\pratikler\metotlariki\bin\Debug\net6.0\metotlariki.dll
+C:\pratikler\metotlariki\bin\Debug\net6.0\metotlariki.pdb
+C:\pratikler\metotlariki\obj\Debug\net6.0\metotlariki.dll
+C:\pratikler\metotlariki\obj\Debug\net6.0\refint\metotlariki.dll
+C:\pratikler\metotlariki\obj\Debug\net6.0\metotlariki.pdb
+C:\pratikler\metotlariki\obj\Debug\net6.0\metotlariki.genruntimeconfig.cache
+C:\pratikler\metotlariki\obj\Debug\net6.0\ref\metotlariki.dll
